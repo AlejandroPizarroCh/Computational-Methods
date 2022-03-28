@@ -1,0 +1,28 @@
+body{
+font-size: 25px;
+font-style: bold;
+}
+#h3{
+font-size: 35;
+}
+#expNum, #decNum{
+color: rgb(143, 78, 142);
+}
+#num{
+color:rgb(153, 166, 124)
+}
+#word{
+color:rgb(120, 139, 237)
+}
+#keyword{
+color:rgb(255, 128, 0)
+}
+#sign, #lessMore, #lessOrEqual, #less, #equal, #greaterOrEqual, #greater, #openParenthesis, #closeParenthesis, #hyphen{
+color:rgb(9, 126, 96)
+}
+#quote{
+color:rgb(0, 0, 0)
+}
+#error{
+color:rgb(244, 43, 91)
+}

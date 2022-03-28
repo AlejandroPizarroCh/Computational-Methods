@@ -1,0 +1,29 @@
+repeat
+else
+if in
+break while 
+for
+
+definir 
+
+<
+>
+<= 
+>= 
+= 
+><
+<>
+' xyz
+
+( while ( numero resultado ) )
+( i * j )
+( if ( i >= j ) )
+( * 9.81 ( temp resultado ) )
+( repeat ( resultado final ) )
+( resultado final - resultado )
+( - ( * 9 45687E-2 resultado no deseado ) )
+( / hola 23 ) + 
+; se resuelve el ejercicio 
+errorProvocado; 
+#prueba_error 
+=[5+8.3
